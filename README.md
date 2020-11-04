@@ -2,7 +2,7 @@
 ## Question-Answering System using Deep Learning
 
 ## 🎓 Need to Know
-This project develops a model on Question-Answering System which helps predicts the answer to a question from the given paragraph using a pre-trained model. You can visit the Project Report for more information and results of the work.
+This project develops a model on Question-Answering System which helps predict the answers to a question from a given paragraph using a pre-trained model. You can visit the Project Report for more information and results of the work.
 
 ## 🚀 Setup
 You would need the following:
